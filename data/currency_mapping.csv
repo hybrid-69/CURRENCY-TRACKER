@@ -1,0 +1,32 @@
+code,name,region
+USD,United States Dollar,North America
+EUR,Euro,Europe
+GBP,British Pound Sterling,Europe
+JPY,Japanese Yen,Asia
+INR,Indian Rupee,Asia
+AUD,Australian Dollar,Oceania
+CAD,Canadian Dollar,North America
+CHF,Swiss Franc,Europe
+CNY,Chinese Yuan,Asia
+SGD,Singapore Dollar,Asia
+HKD,Hong Kong Dollar,Asia
+NZD,New Zealand Dollar,Oceania
+ZAR,South African Rand,Africa
+BRL,Brazilian Real,South America
+KRW,South Korean Won,Asia
+THB,Thai Baht,Asia
+MYR,Malaysian Ringgit,Asia
+IDR,Indonesian Rupiah,Asia
+MXN,Mexican Peso,North America
+SEK,Swedish Krona,Europe
+NOK,Norwegian Krone,Europe
+DKK,Danish Krone,Europe
+PLN,Polish Zloty,Europe
+TRY,Turkish Lira,Europe
+ILS,Israeli Shekel,Middle East
+PHP,Philippine Peso,Asia
+CZK,Czech Koruna,Europe
+HUF,Hungarian Forint,Europe
+RON,Romanian Leu,Europe
+BGN,Bulgarian Lev,Europe
+ISK,Icelandic Krona,Europe
